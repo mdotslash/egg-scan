@@ -1,4 +1,4 @@
-<model-viewer src="egg.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" camera-orbit="-115.2deg 68.41deg 1.892m" field-of-view="27.39deg">
+<model-viewer src="egg.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" camera-orbit="-54.66deg 42.8deg 1.832m" field-of-view="25.77deg" auto-rotate>
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
